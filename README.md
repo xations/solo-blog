@@ -10,7 +10,7 @@ xations 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://amdyes.top/hello-solo)
+* [世界，你好！](https://amdyes.top/hello-solo)
 
 
 
