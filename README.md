@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [ZeroTier moon 设置教程](https://amdyes.top/articles/2019/08/26/1566831752085.html)
 * [在斐讯 N1 上使用Zerotier进行内网穿透](https://amdyes.top/articles/2019/08/26/1566828443751.html)
 * [ mysql文件](https://amdyes.top/articles/2019/08/23/1566553723593.html)
 * [InnoDB存储引擎索引概述](https://amdyes.top/articles/2019/08/23/1566552040998.html)
