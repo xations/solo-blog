@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [solo博客docker部署安装](https://amdyes.top/articles/2019/08/27/1566918760376.html)
 * [ZeroTier moon 设置教程](https://amdyes.top/articles/2019/08/26/1566831752085.html)
 * [在斐讯 N1 上使用Zerotier进行内网穿透](https://amdyes.top/articles/2019/08/26/1566828443751.html)
 * [ mysql文件](https://amdyes.top/articles/2019/08/23/1566553723593.html)
